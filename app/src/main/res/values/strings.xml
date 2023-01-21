@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="pokemon_intro">Hello World! My name is pikachu. Do you want to play with me?.</string>
+    <string name="hello_pikachu">Hello Pikachu!</string>
+</resources>
